@@ -1,0 +1,89 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+container
+{
+    display: flex;
+}
+.tech
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.contactform {
+    margin: -250px;
+    margin-right: 3rem;
+    margin-left: 3rem;
+    margin-bottom: 3rem;
+    z-index: 1;
+    position: relative;
+    background-color: white;
+    color: black;
+
+}
+
+.get
+{
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.blue-gray-gradient {
+    background: linear-gradient(to bottom, #AFC6E6, #E9E6EF);
+}
+
+.marquee {
+    min-width: unset !important;
+}
+
+.how-we-do {
+    background-color: #F5F5F5;
+    color: #5F6567;
+    display: inline-block;
+}
+
+.solutions-img {
+    height: 65px;
+    width: 65px;
+}
+
+.box {
+    background-color: #f0f0f0;
+    border-radius: 50px;
+}
+
+.circle-img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.black-border-top {
+    border-top: solid black;
+}
+
+.black-border-right {
+    border-right: solid black;
+}
+
+.button-dimension {
+    height: 46px;
+    width: 46px;
+    background: #242627;
+    border: none;
+}
+
+.challenges-container {
+    background-color: #151515;
+}
+
+.custom-rounded {
+    border-radius: 30px;
+}
+.social-link {
+    color: black;
+    text-decoration: none;
+}
+
+.social-link:hover {
+    color: #010ECC;
+}
