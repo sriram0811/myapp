@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/myapp/static/css/main.e21e07eb.css",
+    "main.js": "/myapp/static/js/main.e613e4f5.js",
+    "static/js/787.d3befce1.chunk.js": "/myapp/static/js/787.d3befce1.chunk.js",
+    "static/media/solution2.png": "/myapp/static/media/solution2.b557d8c7958f5a7293b3.png",
+    "static/media/solution1.png": "/myapp/static/media/solution1.6097cc29bab13fceaf60.png",
+    "static/media/solution3.png": "/myapp/static/media/solution3.beadf2de876175af8c20.png",
+    "static/media/where.png": "/myapp/static/media/where.9dbaddbbba274ddf04fb.png",
+    "static/media/success3.png": "/myapp/static/media/success3.0010249dcc74399e7bd0.png",
+    "static/media/cost.png": "/myapp/static/media/cost.ceb11e7df000437833f2.png",
+    "static/media/Innovativee.png": "/myapp/static/media/Innovativee.65df5df854eda9c8c390.png",
+    "static/media/industry1.webp": "/myapp/static/media/industry1.baa094963353bbc5f679.webp",
+    "static/media/industry2.webp": "/myapp/static/media/industry2.65887e1ca6027f32e0b1.webp",
+    "static/media/industry6.webp": "/myapp/static/media/industry6.299ca345583cf63b0372.webp",
+    "static/media/industry3.webp": "/myapp/static/media/industry3.6436c067682808f5219e.webp",
+    "static/media/industry4.webp": "/myapp/static/media/industry4.e187ebace3e0a804e9d4.webp",
+    "static/media/industry5.webp": "/myapp/static/media/industry5.4bd038888e9af3f0086b.webp",
+    "static/media/Scalabilityy.PNG": "/myapp/static/media/Scalabilityy.b677b69ef7735573ac91.PNG",
+    "index.html": "/myapp/index.html",
+    "main.e21e07eb.css.map": "/myapp/static/css/main.e21e07eb.css.map",
+    "main.e613e4f5.js.map": "/myapp/static/js/main.e613e4f5.js.map",
+    "787.d3befce1.chunk.js.map": "/myapp/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e21e07eb.css",
+    "static/js/main.e613e4f5.js"
+  ]
+}
