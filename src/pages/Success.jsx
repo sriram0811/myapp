@@ -1,10 +1,15 @@
 import React from 'react'
+{/*
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import{Row,Col} from 'react-bootstrap';
 import success1 from '../Assests/success1.png'
 import success2 from '../Assests/success2.png'
-import success3 from '../Assests/success3.png'
+import success3 from '../Assests/success3.png'*/}
+import { Swiper, SwiperSlide } from 'swiper/react';
+import { Pagination } from 'swiper/modules';
+
+
 
 
 
@@ -82,15 +87,9 @@ const Success = () => {
     Network Manager, Healthcare Organization</p>
     </center>
    
-
-
-
-
-
-
-
-
     </div>
+  
+  
   )
 }
 

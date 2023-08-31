@@ -8,12 +8,9 @@ import solution1 from '../Assests/solution1.png'
 import solution2 from '../Assests/solution2.png'
 import solution3 from '../Assests/solution3.png'
 
-
-
-
-
 const Solution = () => {
   return (
+    <div className="how">
     <div className="position-relative mx-lg-20 bg-secondary text-white rounded p-4 ">
     <Button variant="dark" size="lg" active>
         how we do
@@ -43,7 +40,7 @@ const Solution = () => {
     
     
     
-    
+      </div>
     </div>
   )
 }
