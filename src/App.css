@@ -92,3 +92,39 @@ container
     background-color: #F5F5F5;
     color: #5F6567;
 }
+.logo
+{
+    margin-top: 60px;
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+
+.foot
+{
+    margin-left: 30px;
+    margin-right: 150px;
+}
+.log{
+    font-weight: bolder;
+}
+.we 
+{
+    font-size: 50px;
+    font-weight: bolder;
+}
+.text
+{
+    color:blue;
+}
+.gradient 
+{
+background-image: linear-gradient(to right, #4e9df1, #61df80);
+background-clip: text;
+-webkit-background-clip: text;
+  color: transparent;
+  border: none;
+
+}
+
+
