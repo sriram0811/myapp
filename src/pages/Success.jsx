@@ -7,13 +7,6 @@ import success1 from '../Assests/success1.png'
 import success2 from '../Assests/success2.png'
 import success3 from '../Assests/success3.png'
 
-
-
-
-
-
-
-
 const Success = () => {
   return (
     <div className='p-5'>
