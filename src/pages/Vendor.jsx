@@ -23,6 +23,8 @@ const Vendor = () => {
         </Card>
         </Col>
         </center>
+        <col className='border-5 black-border-top >black-border-right'></col>
+        
       </Row>
        <Row className='p-5'>
         <Col>

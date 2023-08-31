@@ -12,15 +12,15 @@ const Contact = () => {
            <h3 className='py-5 '>Partner with Us for<br></br>
             Comprehensive IT</h3>
        </div>
-       <div className="position-relative mx-lg-20 bg-primary text-white rounded p-4 ">
+       <div className="position-relative mx-lg-20 bg-secondary text-white rounded p-4 ">
         <Row>
-          <Col>
+          <Col className='text-black'>
           <p>We re happy to answer any questions you may have and help<br></br>
           you determine which of our services best fit your needs</p>
-          <a href="#" className="fs-5 hover-blue text-decoration-none text-dark fw-semibold">Call us at: 1-800-356-8933</a>
+          <a href="#" className="fs-5 hover-blue text-decoration-none text-dark fw-bold">Call us at: 1-800-356-8933</a>
           <Row>
             <Col className="p-3 md-4 d-flex">
-            <ul> Your Benefits
+            <ul><strong> Your Benefits</strong>
               <li>Client oriented</li>
               <li>Independent</li>
               <li>Competent</li>
