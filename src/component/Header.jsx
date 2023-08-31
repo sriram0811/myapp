@@ -11,7 +11,7 @@ import {Button}  from 'react-bootstrap';
     
     <Navbar collapseOnSelect expand="lg">
       <Container fluid>
-        <Navbar.Brand href="#home" className="content-align-left"><h2>LOGOIPUSIM</h2></Navbar.Brand>
+        <Navbar.Brand href="#home" className="content-align-left"><h2 className='log'>LOGOIPUSIM</h2></Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto d-flex px-5">
