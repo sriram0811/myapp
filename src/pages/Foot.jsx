@@ -6,8 +6,8 @@ import Button from 'react-bootstrap/Button';
 const Foot = () => {
   return (
     <div className='position-relative mx-lg-20 bg-dark text-white rounded p-4 m-30px'>
-    <Row>
-        <Col>
+    <Row className='foot'>
+        <Col className='md-4'>
         <ul className="list-unstyled"> 
         <h4>Solution</h4>
         <Row>
@@ -17,14 +17,15 @@ const Foot = () => {
             <li>Cyber Securit</li>
             <li>Web Developmen</li>
             </Col>
-            <Col>
+            <Col className='md-4'>
             <li>Mobile Development</li>
             <li>Cloud Services</li>
             <li>Network Connectivity</li>
             <li>ERP Solutions</li>
         </Col>
-        <Col>
-          <h1>LOGOIPUSIM</h1></Col>
+        <Col className='logo'>
+          <p>LOGOIPUSIM</p>
+          </Col>
         </Row>
         </ul>
        </Col>
@@ -46,8 +47,8 @@ const Foot = () => {
             <li>Events</li>
             <li>FAQ</li>
         </Col>
-        <Col>
-        <Button variant="light" size="lg" active>Schedule consultation</Button>
+        <Col className='sch'>
+        <Button variant="secondary" size="lg" active>Schedule consultation</Button>
           </Col>
         </Row>
         </ul>
