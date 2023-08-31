@@ -23,10 +23,18 @@ const Vendor = () => {
         </Card>
         </Col>
         </center>
-        <col className='border-5 black-border-top >black-border-right'></col>
-        
-      </Row>
-       <Row className='p-5'>
+        </Row>
+
+        <div class="row d-grid p-0 m-0">
+            <div class="col border-5 border-top border-black  d-lg-flex ">
+              <div class="col border-5 border-end  border-black"></div>
+              <div class="col border-5 border-end border-black"></div>
+              <div class="col border-5 border-end  border-black"></div>
+              <div class="col border-5 text-black"> .</div>
+            </div>
+          </div>
+                 
+        <Row>
         <Col>
         <Card className='border-0'>
       <Card.Body className='bg-black '>
@@ -59,7 +67,7 @@ const Vendor = () => {
         Customized cloud platform designed to improve
         performance, lower IT costs, and provide secure and
         reliable access to your company data from any
-        device, anytime, anywhere.</Card.Text>
+        device.</Card.Text>
         <Card.Link href="#" className='text-decoration-none'>view more</Card.Link>
       </Card.Body>
     </Card>
