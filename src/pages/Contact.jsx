@@ -19,14 +19,14 @@ const Contact = () => {
           you determine which of our services best fit your needs</p>
           <a href="#" className="fs-5 hover-blue text-decoration-none text-dark fw-bold">Call us at: 1-800-356-8933</a>
           <Row>
-            <Col className="p-3 md-4 d-flex">
+            <Col className="p-3 md-6 d-flex">
             <ul><strong> Your Benefits</strong>
               <li>Client oriented</li>
               <li>Independent</li>
               <li>Competent</li>
            </ul>
             </Col>
-            <Col className="p-3 md-4 d-flex">
+            <Col className="p-3 md-6 d-flex">
             <ul> Your Benefits
               <li>Client oriented</li>
               <li>Independent</li>
